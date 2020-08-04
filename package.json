@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "colors": "^1.4.0",
-    "enquirer": "^2.3.6"
+    "enquirer": "^2.3.6",
+    "node-localstorage": "^2.1.6"
   }
 }
