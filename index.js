@@ -33,7 +33,7 @@ async function play() {
         store.setItem('year', year);
         console.log("Welcome to year ".green + year.toString().green + "!".green);
         for (var month = 0; month <= 12; month++) {
-            // console.log(year + "." + month);
+            console.log("Welcome to month ".blue + month.toString().blue + " of year ".blue + year.toString().blue + "...".blue);
         }
     }
 }
